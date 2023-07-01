@@ -1,0 +1,97 @@
+
+Échange électronique de données juridiques
+DAHIR N° 1-07-129 DU 19 KAADA 1428 (30 NOVEMBRE 2007) PORTANT PROMULGATION DE LA LOI N° 53-05 RELATIVE A L’ECHANGE ELECTRONIQUE DE DONNEES JURIDIQUES1.
+Tel qu’il a été modifié et complété :
+1- Dahir n° 1-20-100 du 16 joumada I 1442 (31 décembre 2020) portant promulgation de la loi n°43-20 relative aux services de confiance pour les transactions, Bulletin Officiel n° 6970 du 4 chaabane 1442 (18 mars 2021), p 535.
+ LOI N° 53-05 RELATIVE A L’ECHANGE ELECTRONIQUE DE DONNEES JURIDIQUES
+Chapitre préliminaire2
+Abrogé
+TITRE PREMIER : DE LA VALIDITE DES ACTES ETABLIS SOUS FORME ELECTRONIQUE OU TRANSMIS PAR VOIE ELECTRONIQUE
+Article 2
+Le chapitre premier du titre premier du livre premier du dahir formant code des obligations et des contrats est complété par un article 2-1 ainsi conçu :
+Article 2-1
+Lorsqu’un écrit est exigé pour la validité d’un acte juridique, il peut être établi et conservé sous forme électronique dans les conditions prévues aux articles 417-1 et 417-2 ci-dessous.
+Lorsqu’une mention écrite est exigée de la main même de celui qui s’oblige, ce dernier peut l’apposer sous forme électronique, si les conditions de cette apposition sont de nature à garantir qu’elle ne peut être effectuée que par lui-même.
+Toutefois, les actes relatifs à l’application des dispositions du code de la famille et les actes sous seing privé relatifs à des sûretés personnelles ou réelles, de nature civile ou commerciale, ne sont pas
+soumis aux dispositions de la présente loi, à l’exception des actes établis par une personne pour les besoins de sa profession.
+Article 3
+Le titre premier du livre premier du dahir formant Code des obligations et des contrats est complété par un chapitre premier bis conçu ainsi qu’il suit :
+Chapitre premier bis : Du contrat conclu sous forme électronique ou transmis par voie électronique.
+Section I : Dispositions générales
+Article 65-1
+Sous réserve des dispositions du présent chapitre, la validité du contrat conclu sous forme électronique ou transmis par voie électronique est régie par les dispositions du chapitre premier du présent titre.
+Article 65-2
+Les dispositions des articles 23 à 30 et 32 ci-dessus ne sont pas applicables au présent chapitre.
+Section II : De l’offre
+Article 65-3
+La voie électronique peut être utilisée Pour mettre à disposition du public des offres contractuelles ou des informations sur des biens ou services en vue de la conclusion d’un contrat.
+Les informations qui sont demandées en vue de la conclusion d’un contrat ou celles qui sont adressées au cours de son exécution peuvent être transmises par courrier électronique si leur destinataire a accepté expressément l’usage de ce moyen.
+Les informations destinées à des professionnels peuvent leur être transmises par courrier électronique, dès lors qu’ils ont communiqué leur adresse électronique.
+ Lorsque les informations doivent être portées sur un formulaire, celui-ci est mis, par voie électronique, à la disposition de la personne qui doit le remplir.
+Article 65-4
+Quiconque propose, à titre professionnel, par voie électronique, la fourniture de biens, la prestation de services ou la cession de fonds de commerce ou l’un de leurs éléments met à disposition du public les conditions contractuelles applicables d’une manière permettant leur conservation et leur reproduction.
+Sans préjudice des conditions de validité prévues dans l’offre, son auteur reste engagé par celle-ci, soit pendant la durée précisée dans ladite offre, soit, à défaut, tant qu’elle est accessible par voie électronique de son fait.
+L’offre comporte, en outre :
+1.	les principales caractéristiques du bien, du service proposé ou du fonds de commerce concerné ou l’un de ses éléments ;
+2.	les conditions de vente du bien ou du service ou celles de cession du fonds de commerce ou l’un de ses éléments ;
+3.	les différentes étapes à suive pour conclure le contrat par voie électronique et notamment les modalités selon lesquelles les parties se libèrent de leurs obligations réciproques ;
+4.	les moyens techniques permettant au futur utilisateur, avant la conclusion du contrat, d’identifier les erreurs commises dans la saisie des données et de les corriger ;
+5.	les langues proposées pour la conclusion du contrat ;
+6.	les modalités d’archivage du contrat par l’auteur de l’offre et les conditions d’accès au contrat archivé, si la nature ou l’objet du contrat le justifie ;
+7.	les moyens de consulter, par voie électronique, les règles professionnelles et commerciales auxquelles l’auteur de l’offre entend, le cas échéant, se soumettre.
+Toute proposition qui ne contient pas l’ensemble des énonciations indiquées au présent article ne peut être considérée comme une offre et demeure une simple publicité et n’engage pas son auteur.
+ Section III : De la conclusion d’un contrat sous forme électronique
+Article 65-5
+Pour que le contrat soit valablement conclu, le destinataire de l’offre doit avoir eu la possibilité de vérifier le détail de son ordre et son prix total et de corriger d’éventuelles erreurs, et ce avant de confirmer ledit ordre pour exprimer son acceptation.
+L’auteur de l’offre doit accuser réception, sans délai injustifié et par voie électronique, de l’acceptation de l’offre qui lui a été adressée.
+Le destinataire est irrévocablement lié à l’offre dès sa réception.
+L’acceptation de l’offre, sa confirmation et l’accusé de réception sont réputés reçus lorsque les parties auxquelles ils sont adressés peuvent y avoir accès.
+Section IV : Dispositions diverses
+Article 65-6
+L’exigence d’un formulaire détachable est satisfaite lorsque, par un procédé électronique spécifique, il est permis d’accéder au formulaire, de le remplir et de le renvoyer par la même voie.
+Article 65-7
+Lorsqu’une pluralité d’originaux est exigée, cette exigence est réputée satisfaite, pour les actes établis sous forme électronique, si l’acte concerné est établi et conservé conformément aux dispositions des articles 417-1, 417-2 et 417-3 ci-dessous et que le procédé utilisé permet à chacune des parties intéressées de disposer d’un exemplaire ou d’y avoir « accès. »
+Article 4
+La section II du chapitre premier, du titre septième, du livre premier du dahir formant Code des obligations et des contrats est complétée par les articles 417-1, 417-2 et 417-3 ainsi conçus :
+ Section II - De la preuve littérale
+Article 417-1
+L’écrit sur support électronique a la même force probante que l’écrit sur support papier.
+L’écrit sous forme électronique est admis en preuve au même titre que l’écrit sur support papier, sous réserve que puisse être dûment identifiée la personne dont il émane et qu’il soit établi et conservé dans des conditions de nature à en garantir l’intégrité.
+Article 417-2
+La signature nécessaire à la perfection d’un acte juridique identifie celui qui l’appose et exprime son consentement aux obligations qui découlent de cet acte.
+Lorsque la signature est apposée par devant un officier public habilité a certifier, elle confère l’authenticité à l’acte.
+Lorsqu’elle est électronique, il convient d’utiliser un procédé fiable d’identification garantissant son lien avec l’acte auquel elle s’attache.
+Article 417-3
+La fiabilité d’un procédé de signature électronique est présumée, jusqu’à preuve contraire, lorsque ce procédé met en oeuvre une signature électronique sécurisée.
+Une signature électronique est considérée comme sécurisée lorsqu’elle est créée, l’identité du signataire assurée et l’intégrité de l’acte juridique garantie, conformément à la législation et la réglementation en vigueur en la matière.
+Tout acte sur lequel est apposée une signature électronique sécurisée et qui est horodaté a la même force probante que l’acte dont la signature est légalisée et de date certaine.
+ Article 5
+Les dispositions des articles 417, 425, 426, 440 et 443 du dahir formant Code des obligations et des contrats sont modifiées et complétées ainsi qu’il suit :
+Article 417
+La	preuve	littérale	……………………….sous	seing	privé.
+Elle peut résulter également ………………………….et documents privés
+ou de tous autres signes ou symboles dotés d’une signification intelligible, quels que soient leur support et leurs modalités de transmission.
+Lorsque la loi n’a pas fixé d’autres règles et, à défaut de convention valable entre les parties, la juridiction statue sur les conflits de preuve littérale par tous moyens, quel que soit le support utilisé.
+Article 425
+Les actes sous seings privés…………………………….au nom de leur
+débiteur.
+Ils n’ont de date contre les tiers que :
+1°……………………………………………………………………………
+……..………………………………………………………………………
+6°- lorsque la date résulte de la signature électronique sécurisée authentifiant l’acte et son signataire conformément à la législation en vigueur.
+Les	ayants	cause	et	successeurs	……………..au	nom	de	leur
+débiteur.
+Article 426
+L’acte ………………………………par elle.
+La  signature  …………………………………..au  bas  de  l’acte  ;  un
+timbre ou cachet ne peuvent y suppléer et sont considérés comme non apposés.
+Lorsqu’il s’agit d’une signature électronique sécurisée, il convient de l’introduire dans l’acte, dans les conditions prévues par la législation et la réglementation applicables en la matière.
+ Article 440
+Les copies………………………originales.
+Les copies d’un acte juridique établi sous forme électronique sont admises en preuve dès lors que l’acte répond aux conditions visées aux articles 417-1 et 417-2 et que le procédé de conservation de l’acte permet
+à	chaque partie de disposer d’un exemplaire ou d’y avoir accès.
+Article 443
+Les conventions et autres faits juridiques……………et excédant la
+somme ou la valeur de dix mille dirhams ne peuvent être prouvés par témoins. Il doit en être passé acte authentique ou sous seing privé, éventuellement établi sous forme électronique ou transmis par voie électronique.
+TITRE II : DU REGIME JURIDIQUE APPLICABLE A LA SIGNATURE ELECTRONIQUE SECURISEE, A LA CRYPTOGRAPHIE ET A LA CERTIFICATION ELECTRONIQUE3
+Abrogé
